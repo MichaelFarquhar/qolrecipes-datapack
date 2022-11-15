@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  /",
+        " /S",
+        "/WS"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "W": {
+            "item": "minecraft:warped_fungus"
+        }
+    },
+    "result": {
+        "item": "minecraft:warped_fungus_on_a_stick",
+        "count": 1
+    }
+}
