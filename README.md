@@ -4,7 +4,7 @@ A Minecraft datapack that adds secondary shortcut recipes to already pre-existin
 ### Example Recipe
 ![minecart](https://i.imgur.com/xm091vs.png)
 
-[View All Recipes](https://michaelfarquhar.notion.site/Shortcut-Recipes-Datapack-100e124cc523438e8e5bc3e8610087c9)
+[View All Recipes](https://michaelfarquhar.github.io/shortcut-recipes-datapack/)
 
 
 ## How To Install
