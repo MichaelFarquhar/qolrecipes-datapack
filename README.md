@@ -1,5 +1,7 @@
 # Shortcut Recipes Datapack
-A Minecraft datapack that adds secondary shortcut recipes to already pre-existing recipes. Made for Minecraft 1.19.2.
+![](https://img.shields.io/badge/Minecraft-1.20.4-green) ![](https://img.shields.io/badge/Datapack-v1.1-blue)
+
+A Minecraft datapack that adds secondary shortcut recipes to already pre-existing recipes.
 
 ### Example Recipe
 ![minecart](https://i.imgur.com/xm091vs.png)
