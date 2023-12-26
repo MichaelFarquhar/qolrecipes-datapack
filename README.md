@@ -11,7 +11,7 @@ A Minecraft datapack that adds secondary shortcut recipes to already pre-existin
 
 ## How To Install
 
-1) Download zip file from "Releases" section in github.
+1) Download zip file.
 2) Navigate to the datapacks folder in your minecraft world: 
   `%appdata%/.minecraft/saves/worldname/datapacks/`
 3) Drag downloaded zip file into this folder (you don’t have to unzip it).
