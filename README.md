@@ -16,6 +16,3 @@ A Minecraft datapack that adds secondary shortcut recipes to already pre-existin
   `%appdata%/.minecraft/saves/worldname/datapacks/`
 3) Drag downloaded zip file into this folder (you don’t have to unzip it).
 4) The datapack will be active next time you load your world. If not, run the /reload command.
-
-<br />
-<a href="https://www.buymeacoffee.com/michaelfarquhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
